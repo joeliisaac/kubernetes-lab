@@ -1,0 +1,6 @@
+replicaCount: 2
+env:
+  TZ: "America/New York"
+podLabels: 
+  hello: world
+
